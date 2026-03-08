@@ -1,8 +1,7 @@
 # Dependencies
 node_modules/
 
-# Generated files
-dist/
+# Generated files (dist/ is committed for end-user downloads)
 build/
 
 # Build artifacts
